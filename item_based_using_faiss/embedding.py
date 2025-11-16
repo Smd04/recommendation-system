@@ -49,3 +49,4 @@ index.add(embeddings)
 faiss.write_index(index, "products_faiss.index")
 
 print("✅ Metadata + FAISS index built successfully!")
+
